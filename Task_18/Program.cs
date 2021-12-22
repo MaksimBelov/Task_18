@@ -32,9 +32,9 @@ namespace Task_18
 
             Random random = new Random();
 
-            int countOfBracket1 = random.Next(1, 2);
-            int countOfBracket2 = random.Next(1, 2);
-            int countOfBracket3 = random.Next(1, 2);
+            int countOfBracket1 = random.Next(5);
+            int countOfBracket2 = random.Next(5);
+            int countOfBracket3 = random.Next(5);
 
             do
             {
@@ -119,9 +119,9 @@ namespace Task_18
 
             Random random = new Random();
 
-            int countOfBracket1 = random.Next(1, 2);
-            int countOfBracket2 = random.Next(1, 2);
-            int countOfBracket3 = random.Next(1, 2);
+            int countOfBracket1 = random.Next(5);
+            int countOfBracket2 = random.Next(5);
+            int countOfBracket3 = random.Next(5);
 
             do
             {
